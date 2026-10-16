@@ -1,0 +1,19 @@
+{
+  "site": "https://www.tvmtelevision.com/",
+  "logo": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/4eda0d30-97f3-42ee-9aa4-164d81662a9c/tvmred.png?format=1500w",
+  "posters": {
+    "tvm-bootcamp": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/4fac0999-e896-4e4e-8fea-08c776715dd3/bootcamp.jpg",
+    "nightmare-on-mctavish": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/436ca6f4-c3ab-49a8-b7e2-3ba1787179a6/nightmare.jpg",
+    "blues-pub": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/f1cf1b72-722c-4cf9-a28b-d1e6a3a7ef4c/blues_pub_review.jpg",
+    "fading-memories": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/86c87b7f-c6c1-41ef-89bb-803a9b663169/1.jpg",
+    "casco-2021": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/1676173355362-49QNNWWORVONDFYZ45YJ/Screen+Shot+2023-01-13+at+2.18.14+PM.png",
+    "inside-ckut": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/1676173355367-JGYHOFONMZPX6TJP2E9Z/Screen+Shot+2023-01-13+at+2.20.16+PM.png",
+    "diwali-2021": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/1676173355371-0ZH98UWGD9SKJFXR4EFK/Screen+Shot+2023-01-13+at+2.23.41+PM.png",
+    "a-quirky-indie": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/6facf201-5711-41fb-9769-703ee00da398/Screen+Shot+2023-02-21+at+8.14.25+PM.jpg",
+    "kids-pop": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/9aa3903b-c3fd-487f-af20-7bd9035e3fd7/Screen+Shot+2023-02-21+at+10.00.41+PM.png",
+    "universe-city": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/bd085736-da1c-40bb-8ab0-2ff39e9e2818/Screen+Shot+2023-02-21+at+10.02.28+PM.png",
+    "ten-second-bits": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/49db20d5-ba45-42c7-8de1-ace843f583db/Screen+Shot+2023-02-21+at+10.11.01+PM.jpg",
+    "mcgill-for-samosas": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/38d4588e-588b-44c5-a682-102f95550ef7/Screen+Shot+2023-02-21+at+10.15.48+PM.png",
+    "students-dont-say": "https://images.squarespace-cdn.com/content/v1/63e86025e579fc1e268f9b95/57cd7c18-d7f8-42e8-af44-acb3df0795d8/Screen+Shot+2023-02-21+at+10.17.49+PM.png"
+  }
+}

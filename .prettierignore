@@ -1,0 +1,6 @@
+.next
+data/catalogue.json
+node_modules
+out
+public/catalogue.json
+public/media

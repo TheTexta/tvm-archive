@@ -1,26 +1,134 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "TVM System Times";
+  src: local("Times-Roman");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TVM System Times";
+  src: local("Times-Bold");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "TVM System Times";
+  src: local("Times-Italic");
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TVM System Times";
+  src: local("Times-BoldItalic");
+  font-style: italic;
+  font-weight: 700;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #fafaf9;
+  --ink: #201b17;
+  --red: #762d30;
+  --grey: #6e6861;
+  --line: #4f4942;
+  --soft-line: #e5e3dd;
 }
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-brand: var(--red);
+  --color-muted: var(--grey);
+  --color-line: var(--line);
+  --color-soft-line: var(--soft-line);
+  --color-copy: #635d56;
+  --color-panel: #f7f6f3;
+  --color-panel-alt: #f9f8f6;
+  --color-stage: #14110f;
+  --color-card: #24201b;
+  --color-control: #f1efeb;
+  --color-disc: #ebe7df;
+  --color-subtle: #92928a;
+  --color-placeholder: #85857c;
+  --color-background: var(--paper);
+  --color-foreground: var(--ink);
+  --font-sans: "TVM System Times", var(--font-tinos), serif;
+  --font-mono: "TVM System Times", var(--font-tinos), serif;
+  --breakpoint-xs: 30rem;
+  --breakpoint-tablet: 50rem;
+  --breakpoint-wide: 71.875rem;
+  --breakpoint-canvas: 100.0625rem;
+  --text-micro: 0.625rem;
+  --text-fine: 0.6875rem;
+  --text-caption: 0.75rem;
+  --text-label: 0.8125rem;
+  --tracking-brand: 0.18em;
+  --leading-copy: 1.7;
+  --leading-spacious: 1.8;
+  --shadow-disc: inset 12px 0 0 #0006;
+  --shadow-focus: 0 0 0 2px var(--red);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    -webkit-tap-highlight-color: transparent;
+    outline-offset: 5px;
+  }
+
+  button,
+  a {
+    touch-action: manipulation;
+  }
+
+  button {
+    color: inherit;
+    cursor: pointer;
+  }
+
+  button:disabled {
+    cursor: wait;
+    opacity: 0.5;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--red);
+  }
+
+  button svg,
+  a svg {
+    flex-shrink: 0;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.tv-hero {
+  height: 100vh;
+  height: 100dvh;
+}
+
+.tv-stage-glow {
+  background: linear-gradient(160deg, #fff 0%, #f8f8f6 62%, #ecebe8 100%);
+}
+
+.tv-stage-poster {
+  mask-image: linear-gradient(to bottom, black 0%, transparent 85%);
+}
+
+@media (max-height: 680px) {
+  .tv-hero-info {
+    bottom: 93px;
+  }
+
+  .tv-seek-bar {
+    bottom: 120px;
+  }
+
+  .tv-hero-info p {
+    display: none;
+  }
 }

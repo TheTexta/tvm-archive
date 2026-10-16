@@ -1,0 +1,50 @@
+[
+  {
+    "disc": "launch party promo",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": false,
+    "outputSha256": "ae07b0b7f048c305cdb433f3aadaab5fbf3acb043f793411131f51097bc865b4"
+  },
+  {
+    "disc": "golden tape nominations 2008",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": false,
+    "outputSha256": "93446dfc44d1d079647d478b57cab42653a53e5662e6574515ebe0b3f479f55e"
+  },
+  {
+    "disc": "Tokyo reel nov 09",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": false,
+    "outputSha256": "4e2962877ca9118030313f3751eb53162cfbd04a472e3a20dbc912b8bf199ba1"
+  },
+  {
+    "disc": "TVMANJi",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": true,
+    "outputSha256": "15fc1c27652b6b175118c7d3158bfc51059d96283af6ea2547e01fb82b1aeec2"
+  },
+  {
+    "disc": "Activities Night : Promo 2006",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": true,
+    "outputSha256": "c191084f98605468ec0ae5d8a65124c6d3ce4879472318dc40f28c76511e6456"
+  },
+  {
+    "disc": "Activities Night sept 2008",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": true,
+    "outputSha256": "fd2c48a1a773b2c6dca511ac270d81cf257c35cb70416d904d451b5895b8ed51"
+  },
+  {
+    "disc": "PROMO VIDEO 2008",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": true,
+    "outputSha256": "1f3985bb568de2a658579c5bc7f1727a6b1d651483d748aa853599ce76771168"
+  },
+  {
+    "disc": "SPECIAL OPS EMILY DVD",
+    "sourceFile": "VTS_01_1.VOB",
+    "excerpt": true,
+    "outputSha256": "4e1a0e56cb6f4566912c228518f6a66b4a6a6d7890c71aac5718efa19e32209f"
+  }
+]

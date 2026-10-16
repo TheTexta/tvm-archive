@@ -1,0 +1,236 @@
+{
+  "revision": "tvm-demo-2026-10-01",
+  "videos": [
+    {
+      "id": "DVD-001",
+      "slug": "launch-party-promo",
+      "title": "Launch party promo",
+      "year": null,
+      "category": "Campus life",
+      "description": "Recovered from the original “launch party promo” disc. Disc labels are preserved; titles and credits are being catalogued.",
+      "tags": [
+        "Campus life",
+        "DVD archive"
+      ],
+      "dvdSlug": "launch-party-promo",
+      "duration": 58,
+      "poster": "/images/launch-party-promo.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/launch-party-promo.mp4"
+      },
+      "sourceUrl": "/media/launch-party-promo.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-002",
+      "slug": "golden-tape-2008",
+      "title": "Golden Tape nominations",
+      "year": 2008,
+      "category": "Events",
+      "description": "Recovered from the original “golden tape nominations 2008” disc. Disc labels are preserved; titles and credits are being catalogued.",
+      "tags": [
+        "Events",
+        "DVD archive"
+      ],
+      "dvdSlug": "golden-tape-2008",
+      "duration": 229,
+      "poster": "/images/golden-tape-2008.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/golden-tape-2008.mp4"
+      },
+      "sourceUrl": "/media/golden-tape-2008.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-003",
+      "slug": "tokyo-reel-2009",
+      "title": "Tokyo reel — November 2009",
+      "year": 2009,
+      "category": "Arts & culture",
+      "description": "Recovered from the original “Tokyo reel nov 09” disc. Disc labels are preserved; titles and credits are being catalogued.",
+      "tags": [
+        "Arts & culture",
+        "DVD archive"
+      ],
+      "dvdSlug": "tokyo-reel-2009",
+      "duration": 101,
+      "poster": "/images/tokyo-reel-2009.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/tokyo-reel-2009.mp4"
+      },
+      "sourceUrl": "/media/tokyo-reel-2009.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-004",
+      "slug": "tvmanji",
+      "title": "TVMANJi",
+      "year": null,
+      "category": "Short films",
+      "description": "A 75-second demo excerpt from the original “TVMANJi” disc. The full recording is still being catalogued.",
+      "tags": [
+        "Short films",
+        "DVD archive",
+        "Demo excerpt"
+      ],
+      "dvdSlug": "tvmanji",
+      "duration": 75,
+      "poster": "/images/tvmanji.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/tvmanji.mp4"
+      },
+      "sourceUrl": "/media/tvmanji.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-005",
+      "slug": "activities-night-2006",
+      "title": "Activities Night / Promo 2006",
+      "year": 2006,
+      "category": "Campus life",
+      "description": "A 75-second demo excerpt from the original “Activities Night : Promo 2006” disc. The full recording is still being catalogued.",
+      "tags": [
+        "Campus life",
+        "DVD archive",
+        "Demo excerpt"
+      ],
+      "dvdSlug": "activities-night-2006",
+      "duration": 75,
+      "poster": "/images/activities-night-2006.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/activities-night-2006.mp4"
+      },
+      "sourceUrl": "/media/activities-night-2006.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-006",
+      "slug": "activities-night-2008",
+      "title": "Activities Night — September 2008",
+      "year": 2008,
+      "category": "Campus life",
+      "description": "A 28-second demo excerpt from the original “Activities Night sept 2008” disc. The full recording is still being catalogued.",
+      "tags": [
+        "Campus life",
+        "DVD archive",
+        "Demo excerpt"
+      ],
+      "dvdSlug": "activities-night-2008",
+      "duration": 28,
+      "poster": "/images/activities-night-2008.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/activities-night-2008.mp4"
+      },
+      "sourceUrl": "/media/activities-night-2008.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-007",
+      "slug": "promo-video-2008",
+      "title": "Promo video 2008",
+      "year": 2008,
+      "category": "Campus life",
+      "description": "A 61-second demo excerpt from the original “PROMO VIDEO 2008” disc. The full recording is still being catalogued.",
+      "tags": [
+        "Campus life",
+        "DVD archive",
+        "Demo excerpt"
+      ],
+      "dvdSlug": "promo-video-2008",
+      "duration": 61,
+      "poster": "/images/promo-video-2008.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/promo-video-2008.mp4"
+      },
+      "sourceUrl": "/media/promo-video-2008.mp4",
+      "addedAt": "2026-10-01"
+    },
+    {
+      "id": "DVD-008",
+      "slug": "special-ops",
+      "title": "Special Ops / Emily",
+      "year": null,
+      "category": "Short films",
+      "description": "A 75-second demo excerpt from the original “SPECIAL OPS EMILY DVD” disc. The full recording is still being catalogued.",
+      "tags": [
+        "Short films",
+        "DVD archive",
+        "Demo excerpt"
+      ],
+      "dvdSlug": "special-ops",
+      "duration": 75,
+      "poster": "/images/special-ops.jpg",
+      "source": {
+        "type": "mp4",
+        "url": "/media/special-ops.mp4"
+      },
+      "sourceUrl": "/media/special-ops.mp4",
+      "addedAt": "2026-10-01"
+    }
+  ],
+  "dvds": [
+    {
+      "slug": "launch-party-promo",
+      "label": "launch party promo",
+      "year": null,
+      "notes": "Digitized from the original DVD backup. This demo includes the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/launch-party-promo.jpg"
+    },
+    {
+      "slug": "golden-tape-2008",
+      "label": "golden tape nominations 2008",
+      "year": 2008,
+      "notes": "Digitized from the original DVD backup. This demo includes the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/golden-tape-2008.jpg"
+    },
+    {
+      "slug": "tokyo-reel-2009",
+      "label": "Tokyo reel nov 09",
+      "year": 2009,
+      "notes": "Digitized from the original DVD backup. This demo includes the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/tokyo-reel-2009.jpg"
+    },
+    {
+      "slug": "tvmanji",
+      "label": "TVMANJi",
+      "year": null,
+      "notes": "Digitized from the original DVD backup. This demo includes an excerpt from the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/tvmanji.jpg"
+    },
+    {
+      "slug": "activities-night-2006",
+      "label": "Activities Night : Promo 2006",
+      "year": 2006,
+      "notes": "Digitized from the original DVD backup. This demo includes an excerpt from the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/activities-night-2006.jpg"
+    },
+    {
+      "slug": "activities-night-2008",
+      "label": "Activities Night sept 2008",
+      "year": 2008,
+      "notes": "Digitized from the original DVD backup. This demo includes an excerpt from the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/activities-night-2008.jpg"
+    },
+    {
+      "slug": "promo-video-2008",
+      "label": "PROMO VIDEO 2008",
+      "year": 2008,
+      "notes": "Digitized from the original DVD backup. This demo includes an excerpt from the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/promo-video-2008.jpg"
+    },
+    {
+      "slug": "special-ops",
+      "label": "SPECIAL OPS EMILY DVD",
+      "year": null,
+      "notes": "Digitized from the original DVD backup. This demo includes an excerpt from the first title; other titles and chapters are not yet indexed.",
+      "cover": "/images/special-ops.jpg"
+    }
+  ]
+}

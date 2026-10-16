@@ -1,0 +1,236 @@
+[
+  {
+    "id": "TVM-001",
+    "slug": "tvm-bootcamp",
+    "title": "A quiet gaze into TVM Bootcamp",
+    "year": 2025,
+    "category": "Campus life",
+    "description": "A film by Arnaud Bélec. Every fall, the TVM crew heads north for a weekend together.",
+    "tags": ["Campus life", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/tvm-bootcamp.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "ux9BG4qgobc"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=ux9BG4qgobc",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-002",
+    "slug": "nightmare-on-mctavish",
+    "title": "Nightmare on McTavish",
+    "year": 2025,
+    "category": "Short films",
+    "description": "The trailer for a TVM production at 4Floors SSMU.",
+    "tags": ["Short films", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/nightmare-on-mctavish.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "TyQC8Ew05ho"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=TyQC8Ew05ho",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-003",
+    "slug": "blues-pub",
+    "title": "TVM Bar Reviews: Blue’s Pub",
+    "year": null,
+    "category": "Campus life",
+    "description": "Sofia and Anya visit the McGill Engineering bar.",
+    "tags": ["Campus life", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/blues-pub.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "N2kkvyDM6X0"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=N2kkvyDM6X0",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-004",
+    "slug": "fading-memories",
+    "title": "Remembrance of the Fading Memories",
+    "year": null,
+    "category": "Short films",
+    "description": "A woman losing her memory imagines a world where she can meet the man she loves again.",
+    "tags": ["Short films", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/fading-memories.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "EHC1ksvgUIE"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=EHC1ksvgUIE",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-005",
+    "slug": "casco-2021",
+    "title": "CASCO 2021",
+    "year": 2021,
+    "category": "Events",
+    "description": "A dance and fashion show by the Commerce and Administration Student Charity Organization.",
+    "tags": ["Events", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/casco-2021.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "ULGdPExYEH4"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=ULGdPExYEH4",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-006",
+    "slug": "inside-ckut",
+    "title": "Inside CKUT: Alex Moskos",
+    "year": null,
+    "category": "Arts & culture",
+    "description": "Episode 3. A conversation with CKUT’s music coordinator about community radio.",
+    "tags": ["Arts & culture", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/inside-ckut.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "lN4bPMtNeHg"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=lN4bPMtNeHg",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-007",
+    "slug": "diwali-2021",
+    "title": "Yeh Diwali Hai Deewani",
+    "year": 2021,
+    "category": "Events",
+    "description": "The Indian Student Association celebrates Diwali at McGill.",
+    "tags": ["Events", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/diwali-2021.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "2vv8fVfR1gg"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=2vv8fVfR1gg",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-008",
+    "slug": "a-quirky-indie",
+    "title": "A Quirky Indie",
+    "year": null,
+    "category": "Short films",
+    "description": "An independent student film from the TVM collection.",
+    "tags": ["Short films", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/a-quirky-indie.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "NhjoLd1y3cE"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=NhjoLd1y3cE",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-009",
+    "slug": "kids-pop",
+    "title": "Kids POP: Picnic in the Sun",
+    "year": null,
+    "category": "Arts & culture",
+    "description": "TVM visits POP Montreal for an outdoor marching band event.",
+    "tags": ["Arts & culture", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/kids-pop.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "JmxvE8khEcE"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=JmxvE8khEcE",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-010",
+    "slug": "universe-city",
+    "title": "Universe City: Mental Health",
+    "year": null,
+    "category": "Comedy",
+    "description": "Episode 1. Phoebe tries to find help through the university’s mental health services.",
+    "tags": ["Comedy", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/universe-city.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "mQyosLR62qk"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=mQyosLR62qk",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-011",
+    "slug": "ten-second-bits",
+    "title": "Ten Second Bits",
+    "year": null,
+    "category": "Comedy",
+    "description": "A collection of short sketches from TVM.",
+    "tags": ["Comedy", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/ten-second-bits.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "uBk2_97Hiks"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=uBk2_97Hiks",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-012",
+    "slug": "mcgill-for-samosas",
+    "title": "McGill for Samosas",
+    "year": null,
+    "category": "Campus life",
+    "description": "TVM reports on the cancellation of campus samosa sales.",
+    "tags": ["Campus life", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/mcgill-for-samosas.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "zvZvrW8FEkA"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=zvZvrW8FEkA",
+    "addedAt": "2026-10-01"
+  },
+  {
+    "id": "TVM-013",
+    "slug": "students-dont-say",
+    "title": "Sh*t McGill Students Don’t Say",
+    "year": null,
+    "category": "Comedy",
+    "description": "A student comedy produced by Ahmed, Alex D., Jake, Nathalie, Tory, Leo, Ben M. and Ben B.",
+    "tags": ["Comedy", "McGill"],
+    "dvdSlug": null,
+    "duration": null,
+    "poster": "/images/students-dont-say.jpg",
+    "source": {
+      "type": "youtube",
+      "id": "WV5LzSU1PXo"
+    },
+    "sourceUrl": "https://www.youtube.com/watch?v=WV5LzSU1PXo",
+    "addedAt": "2026-10-01"
+  }
+]
